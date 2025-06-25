@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "蒋圣的小主页"
+title                    : "蒋"
 title_separator          : "-"
 name                     : &name "js"
 description              : &description "personal description"
