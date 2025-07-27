@@ -1,19 +1,32 @@
 {% include base_path %}
 
+<!-- 调试输出：当前页面 URL、站点语言、base_path -->
+<p style="color: red; font-weight: bold; background: #fff0f0; padding: 5px; border: 1px solid red; margin: 10px 0;">
+  当前页面 URL: {{ page.url }} <br>
+  站点语言（site.locale）: {{ site.locale }} <br>
+  计算出的 base_path: {{ base_path }}
+</p>
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg persist">
+            <a href="{{ base_path }}/">{{ site.title }}</a>
+          </li>
 
+          {% comment %}
+          根据当前页面 URL 是否包含 '/zh/'，切换导航数据
+          {% endcomment %}
           {% assign current_path = page.url | downcase %}
-
           {% if current_path contains '/zh/' %}
             {% assign nav_links = site.data.navigation_zh.main %}
+            <p style="color: red;">导航数据使用：navigation_zh（中文导航）</p>
           {% else %}
             {% assign nav_links = site.data.navigation.main %}
+            <p style="color: red;">导航数据使用：navigation（英文导航）</p>
           {% endif %}
 
           {% for link in nav_links %}
@@ -22,7 +35,9 @@
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+            </li>
           {% endfor %}
 
           <li id="theme-toggle" class="masthead__menu-item persist tail">
