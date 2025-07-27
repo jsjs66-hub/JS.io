@@ -12,7 +12,9 @@ layout: compress
   </head>
 
   <body>
-
+    <p style="color:red; position: fixed; top: 0; left: 0; background: white; padding: 3px 8px; z-index: 9999;">
+      调试：当前页面 URL 是 {{ page.url }}
+    </p>
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
