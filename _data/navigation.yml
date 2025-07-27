@@ -14,17 +14,17 @@ main:
   - title: "Talks"
     url: /en/talks/     
 
-  - title: "Teaching"
-    url: /en/teaching/    
+ # - title: "Teaching"
+  #  url: /en/teaching/    
     
-  - title: "Portfolio"
-    url: /en/portfolio/
+  #- title: "Portfolio"
+  #  url: /en/portfolio/
         
-  - title: "Blog Posts"
-    url: /en/year-archive/
+  #- title: "Blog Posts"
+  #  url: /en/year-archive/
     
-  - title: "CV"
-    url: /en/cv/
+  #- title: "CV"
+  #  url: /en/cv/
     
   # - title: "CV"
   #   url: /en/cv-json/
