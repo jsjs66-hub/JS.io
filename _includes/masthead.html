@@ -19,10 +19,8 @@
           {% assign current_path = page.url | downcase %}
           {% if current_path contains '/zh/' %}
             {% assign nav_links = site.data.navigation_zh.main %}
-            <p style="color: red;">导航数据使用：navigation_zh（中文导航）</p>
           {% else %}
             {% assign nav_links = site.data.navigation.main %}
-            <p style="color: red;">导航数据使用：navigation（英文导航）</p>
           {% endif %}
 
           {% for link in nav_links %}

@@ -4,7 +4,6 @@
 
 {% assign current_path = page.url | downcase %}
 
-<p style="color:red">当前页面 URL: {{ page.url }}</p>
 
 {% if current_path contains '/zh/' %}
   {% assign nav_links = site.data.navigation_zh.main %}
