@@ -1,11 +1,13 @@
 ---
 permalink: /zh/
 layout: single
-sidebar:
-  nav: navigation_zh
+
 
 title: "中文首页"
 author_profile: true
+sidebar:
+  nav: navigation_zh
+
 redirect_from: 
   - /index/
   - /index.html
