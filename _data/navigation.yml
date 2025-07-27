@@ -9,7 +9,7 @@
 
 main:
   - title: "关于hws"
-    url: zh/about/
+    url: zh/about
 
 
   - title: "1"
@@ -19,6 +19,6 @@ main:
   - title: "2"
     url: "#2"
     
-    
+
   - title: "3"
     url: "#3"
