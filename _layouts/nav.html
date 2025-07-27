@@ -1,0 +1,19 @@
+{% comment %}
+  根据页面 URL 判断语言，加载不同导航数据
+{% endcomment %}
+
+{% assign current_path = page.url | downcase %}
+
+{% if current_path contains '/zh/' %}
+  {% assign nav_links = site.data.navigation_zh.main %}
+{% else %}
+  {% assign nav_links = site.data.navigation.main %}
+{% endif %}
+
+<nav class="custom-nav">
+  <ul class="custom-nav-list">
+    {% for link in nav_links %}
+      <li><a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>

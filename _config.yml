@@ -249,6 +249,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
   - scope:
       path: "_pages/zh"
       type: pages
@@ -256,6 +257,7 @@ defaults:
       layout: single
       sidebar:
         nav: navigation_zh
+        
   - scope:
       path: "_pages/en"
       type: pages
