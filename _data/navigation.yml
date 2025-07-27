@@ -9,10 +9,10 @@
 
 main:
   - title: "Publications"
-    url: /en/publications/
+    url: en/publications/
 
   - title: "Talks"
-    url: /en/talks/     
+    url: en/talks/     
 
  # - title: "Teaching"
   #  url: /en/teaching/    
@@ -30,11 +30,11 @@ main:
   #   url: /en/cv-json/
     
   - title: "Guide"
-    url: /en/markdown/
+    url: en/markdown/
 
   - title: "About"
-    url: /en/about/
+    url: en/about/
 
-  - title: "关于"
-    url: /zh/about/
+  - title: "关于hws"
+    url: zh/about/
 
