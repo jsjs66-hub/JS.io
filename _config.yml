@@ -249,6 +249,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: "_pages/zh"
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: navigation_zh
+
+
   # _teaching
   - scope:
       path: ""
