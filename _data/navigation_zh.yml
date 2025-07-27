@@ -12,8 +12,8 @@ main:
     url: "#1"
 
   - title: "经历"
-    url: "#shili"
+    url: "#2"
 
   - title: "English"
-    url: zh/about/
-    position: right
+    url: en/about/
+   
