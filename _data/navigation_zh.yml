@@ -9,10 +9,10 @@
 
 main:   
   - title: "奖项"
-    url: #1
+    url: "#1"
 
   - title: "经历"
-    url: #shili
+    url: "#shili"
 
   - title: "English"
     url: zh/about/
