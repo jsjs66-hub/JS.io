@@ -9,25 +9,32 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /en/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /en/talks/     
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /en/teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /en/portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /en/year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /en/cv/
     
   # - title: "CV"
-  #   url: /cv-json/
+  #   url: /en/cv-json/
     
   - title: "Guide"
-    url: /markdown/
+    url: /en/markdown/
+
+  - title: "About"
+    url: /en/about/
+
+  - title: "关于"
+    url: /zh/about/
+
