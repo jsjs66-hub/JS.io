@@ -256,6 +256,13 @@ defaults:
       layout: single
       sidebar:
         nav: navigation_zh
+  - scope:
+      path: "_pages/en"
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: navigation
 
 
   # _teaching

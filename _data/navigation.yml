@@ -20,4 +20,4 @@ main:
     url: "#3"
 
   - title: "中文"
-    url: /zh
+    url: zh/
