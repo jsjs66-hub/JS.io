@@ -158,7 +158,22 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}
+
+      {% if author.wechat %}
+      <li class="wechat-hover">
+        <a href="javascript:void(0);">
+          <i class="fab fa-weixin icon-pad-right" aria-hidden="true"></i>WeChat
+          <span class="wechat-qrcode">
+            <img src="{{ '/images/wechat_qr.jpg' | relative_url }}" alt="WeChat QR" />
+          </span>
+        </a>
+      </li>
+    {% endif %}
+    
+
+        
+      
     </ul>
   </div>
 </div>

@@ -1,0 +1,27 @@
+.wechat-hover {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .wechat-qrcode {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 10;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 5px;
+    width: 150px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  }
+  
+  .wechat-qrcode img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .wechat-hover:hover .wechat-qrcode {
+    display: block;
+  }
+  
