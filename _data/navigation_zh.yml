@@ -9,10 +9,10 @@
 
 main:   
   - title: "5"
-    url: /en/#1
+    url: /zh/#1
 
   - title: "4"
-    url: /en/#2
+    url: /zh/#2
 
   - title: "English"
     url: /en/

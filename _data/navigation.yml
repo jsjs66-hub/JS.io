@@ -9,15 +9,15 @@
 
 main:
   - title: "3"
-    url: /zh/#1
+    url: /en/#1
 
 
   - title: "4"
-    url: /zh/#2
+    url: /en/#2
     
 
   - title: "66"
-    url: /zh/#3
+    url: /en/#3
 
   - title: "中文"
     url: /zh/
