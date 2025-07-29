@@ -21,9 +21,19 @@ redirect_from:
 
 + 2023.09 ~ 至今：[武汉大学](https://www.whu.edu.cn/) ，[物理系（本科）](https://physics.whu.edu.cn/)
 
-+ 2020.09 ~ 2023.06：[北海市北海中学] 
++ 2020.09 ~ 2023.06：北海市北海中学 
 
-<h2 id="1">Getting Started</h2>
+<h2 id="journal">论文与出版物</h2>
+
+**Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials**  
+<b>Advanced Photonics Research, 2025</b>
+
+**作者**：Shuyang Yuan,Yanchang Zhou,Lei Yin,*Xintian Wang,**Sheng Jiang**,Ziyi Song,Yao Wen,Ruiqing Cheng,*and Jun He*  
+🔗 [在线查看](https://advanced.onlinelibrary.wiley.com/doi/10.1002/apxr.202400169)
+
+
+
+
 
 ## Getting started {#1}
 ======
