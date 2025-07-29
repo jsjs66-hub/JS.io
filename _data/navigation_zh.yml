@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:   
-  - title: "5"
-    url: /zh/#1
+  - title: "教育背景"
+    url: /zh/#education
 
   - title: "4"
     url: /zh/#2

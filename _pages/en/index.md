@@ -4,7 +4,7 @@ layout: single
 #sidebar:
 #  nav: navigation
 
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Sheng Jiang’s homepage!"
 author_profile: true
 #nav: navigation
 redirect_from: 
