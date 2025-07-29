@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "js"
 description              : &description "personal description"
 url                      : "https://jsjs66-hub.github.io/JS.io"
-baseurl                  : "/JS" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
