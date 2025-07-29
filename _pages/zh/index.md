@@ -28,8 +28,7 @@ redirect_from:
 + **Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials**  
   + 已发表于 *Advanced Photonics Research*, 2025
   + **作者**：Shuyang Yuan,Yanchang Zhou,Lei Yin,\*Xintian Wang,**Sheng Jiang**,Ziyi Song,Yao Wen,Ruiqing Cheng,\*and Jun He\*  
-🔗 [网页查看](https://advanced.onlinelibrary.wiley.com/doi/10.1002/apxr.202400169)    
-📄 [PDF下载](/files/Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials.pdf)
+🔗 [网页查看](https://advanced.onlinelibrary.wiley.com/doi/10.1002/apxr.202400169)    📄 [PDF下载](/files/Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials.pdf)
 
 
 
