@@ -8,16 +8,35 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "3"
-    url: /en/#1
+main:
+  - title: "Education"
+    url: /en/#education
+
+  - title: "Publications"
+    url: /en/#journal
+
+  - title: "Honors"
+    url: /en/#honors
+
+  - title: "Competition Awards"
+    url: /en/#competitions
+
+  - title: "Internship Experience"
+    url: /en/#internships
 
 
-  - title: "4"
-    url: /en/#2
-    
 
-  - title: "66"
-    url: /en/#3
+  - title: "Projects"
+    url: /en/#projects
+
+  - title: "Skills & Tools"
+    url: /en/#skills
+
+  - title: "Extracurricular Activities"
+    url: /en/#activities
+
+  - title: "Personal Interests"
+    url: /en/#hobbies
 
   - title: "中文"
     url: /zh/

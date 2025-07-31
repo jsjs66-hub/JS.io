@@ -25,7 +25,7 @@ redirect_from:
 
 <h2 id="journal">论文与出版物</h2>
 
-+ **Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials**  
++ ***Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials***  
   + 已发表于 *Advanced Photonics Research*, 2025
   
   + **作者**：Shuyang Yuan, Yanchang Zhou, Lei Yin,\* Xintian Wang, **Sheng Jiang**, Ziyi Song, Yao Wen, Ruiqing Cheng,\* and Jun He\*  
@@ -73,8 +73,7 @@ redirect_from:
 + 2025.06 ~ 2025.08：[北海市海城区人民政府](http://www.bhhc.gov.cn/)办公室，文秘股 
 
 
-<h2 id="research">研究兴趣</h2>
-还没更新
+
 <h2 id="projects">项目经历</h2>
 没更新
 <h2 id="skills">技能和工具</h2>
