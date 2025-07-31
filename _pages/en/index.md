@@ -22,7 +22,7 @@ Contact: 182-7795-6006
 
 09/2023 – Present: Wuhan University, Department of Physics (B.S.)
 
-09/2020 – 06/2023: Beihai High School, Guangxi
+09/2020 – 06/2023: Beihai High School
 
 <h2 id="journal">Publications</h2>
 
@@ -54,17 +54,17 @@ Contact: 182-7795-6006
 
 <h2 id="competitions">Competition Awards</h2>
 
-+ 06/2025      [China Undergraduate Physics Tournament](https://www.cupt-iypt.com/), Wuhan University      Second Prize  
++ 06/2025      [China Undergraduate Physics Tournament](https://www.cupt-iypt.com/), Wuhan University   &emsp;   Second Prize  
 
-+ 05/2025      [National Business Simulation Competition](https://www.bizwar.cn/), China      Third Prize (National Level)  
++ 05/2025      [National Business Simulation Competition](https://www.bizwar.cn/), China   &emsp;   Third Prize (National Level)  
 
-+ 01/2025      [The Interdisciplinary Contest in Modeling](https://www.comap.com/contests/mcm-icm)      Honorable Mention  
++ 01/2025      [The Interdisciplinary Contest in Modeling](https://www.comap.com/contests/mcm-icm)   &emsp;   Honorable Mention  
 
-+ 01/2025      3rd National ETF Elite Challenge      Second Prize (University Group)  
++ 01/2025      3rd National ETF Elite Challenge    &emsp;  Second Prize (University Group)  
 
-+ 11/2024      [National Business Simulation Competition](https://www.bizwar.cn/), Hubei Province      First Prize (Provincial Level)  
++ 11/2024      [National Business Simulation Competition](https://www.bizwar.cn/), Hubei Province   &emsp;   First Prize (Provincial Level)  
 
-+ 10/2024      [National Business Simulation Competition](https://www.bizwar.cn/), Wuhan University      Second Prize (University Level)
++ 10/2024      [National Business Simulation Competition](https://www.bizwar.cn/), Wuhan University   &emsp;   Second Prize (University Level)
 
 
 <h2 id="internships">Internship Experience</h2>
