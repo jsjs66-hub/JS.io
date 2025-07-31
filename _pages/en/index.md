@@ -53,21 +53,23 @@ Contact: 182-7795-6006
   + 04/2025 School of Physics and Technology，Wuhan University&emsp; 2025     Active Participant in Social Practice Activities
 
 <h2 id="competitions">Competition Awards</h2>
-+ Jun 2025: Second Prize, CUPT Wuhan University Intra-School Competition
 
-+ May 2025: Third Prize, National Business Simulation Competition
++ 06/2025      [China Undergraduate Physics Tournament](https://www.cupt-iypt.com/), Wuhan University      Second Prize  
 
-+ Jan 2025: Honorable Mention, MCM/ICM Mathematical Contest in Modeling
++ 05/2025      [National Business Simulation Competition](https://www.bizwar.cn/), China      Third Prize (National Level)  
 
-+ Jan 2025: Second Prize, 3rd National ETF Elite Challenge (University Category)
++ 01/2025      [The Interdisciplinary Contest in Modeling](https://www.comap.com/contests/mcm-icm)      Honorable Mention  
 
-+ Nov 2024: First Prize, Hubei Provincial Round, National Business Simulation Competition
++ 01/2025      3rd National ETF Elite Challenge      Second Prize (University Group)  
 
-+ Oct 2024: Second Prize, Wuhan University Round, National Business Simulation Competition
++ 11/2024      [National Business Simulation Competition](https://www.bizwar.cn/), Hubei Province      First Prize (Provincial Level)  
+
++ 10/2024      [National Business Simulation Competition](https://www.bizwar.cn/), Wuhan University      Second Prize (University Level)
+
 
 <h2 id="internships">Internship Experience</h2>
 
-Jun 2025 – Aug 2025: Secretariat, [Office of the People's Government of Haicheng District, Beihai, Guangxi, China](http://www.bhhc.gov.cn/)
+06/2025 ~ 08/2025: Secretariat, [Office of the People's Government of Haicheng District, Beihai, Guangxi, China](http://www.bhhc.gov.cn/)
 
 <h2 id="research">Research Interests</h2>
 To be updated.

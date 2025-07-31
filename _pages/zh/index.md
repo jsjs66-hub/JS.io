@@ -59,7 +59,7 @@ redirect_from:
 
 + 2025.05 [全国企业竞争模拟大赛](https://www.bizwar.cn/)    全国三等奖
 
-+ 2025.01 [美国大学生数学建模大赛（MCM/ICM）](https://www.comap.com/)    Honorable Mention
++ 2025.01 [美国大学生数学建模大赛（MCM/ICM）](https://www.comap.com/contests/mcm-icm)    Honorable Mention
 
 + 2025.01 第三届全国ETF菁英挑战赛    高校组二等奖
 
