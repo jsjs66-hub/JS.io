@@ -14,6 +14,30 @@ main:
   - title: "论文与出版物"
     url: /zh/#journal
 
+  - title: "荣誉称号"
+    url: /zh/#honors
+
+  - title: "竞赛奖项"
+    url: /zh/#competitions
+
+  - title: "实习经历"
+    url: /zh/#internships
+
+  - title: "研究兴趣"
+    url: /zh/#research
+
+  - title: "项目经历"
+    url: /zh/#projects
+
+  - title: "技能和工具"
+    url: /zh/#skills
+
+  - title: "课外活动"
+    url: /zh/#activities
+
+  - title: "个人兴趣爱好"
+    url: /zh/#hobbies
+
   - title: "English"
     url: /en/
    

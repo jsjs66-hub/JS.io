@@ -27,43 +27,56 @@ redirect_from:
 
 + **Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials**  
   + 已发表于 *Advanced Photonics Research*, 2025
+  
   + **作者**：Shuyang Yuan,Yanchang Zhou,Lei Yin,\*Xintian Wang,**Sheng Jiang**,Ziyi Song,Yao Wen,Ruiqing Cheng,\*and Jun He\*  
+
 🔗 [网页查看](https://advanced.onlinelibrary.wiley.com/doi/10.1002/apxr.202400169) &ensp;&ensp;&ensp;&ensp; 📄 [PDF下载](https://jsjs66-hub.github.io/JS.io/files/Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials.pdf)
 
+<h2 id="honors">荣誉称号</h2>
+
++ 校级荣誉
+  + 2025.04 武汉大学 2024年度 优秀共青团干部
+
+  + 2024.12 武汉大学 2023-2024年度 优秀学生
+
+  + 2024.10 武汉大学 2023-2024学年 优秀学生奖学金（丙等奖）
+
+  + 2024.08 武汉大学 2023-2024学年 心理健康教育活动积极分子
+
+  + 2024.06 武汉大学 2023-2024年度 优秀学生干部
+
+  + 2023.09 武汉大学 2023年 军训优秀参训学员 
+
++ 院级荣誉
+  + 2025.06 武汉大学物理科学与技术学院 2023-2024学年 社会活动积极分子
+
+  + 2025.04 武汉大学物理科学与技术学院 2025年寒期 社会实践活动积极分子
 
 
+<h2 id="competitions">竞赛奖项</h2>
 
-## Getting started {#1}
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
++ 2025.06 [中国大学生物理学术竞赛（CUPT）](https://www.cupt-iypt.com/) 武汉大学校赛二等奖
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
++ 2025.05 [全国企业竞争模拟大赛](https://www.bizwar.cn/) 全国三等奖
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
++ 2025.01 [美国大学生数学建模大赛（MCM/ICM）](https://www.comap.com/) Honorable Mention
 
-<h2 id="2">Getting</h2>
++ 2025.01 第三届全国ETF菁英挑战赛 高校组二等奖
 
-**Markdown generator** {#2}
++ 2024.11 [全国企业竞争模拟大赛](https://www.bizwar.cn/) 湖北省赛一等奖
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
++ 2024.10 [全国企业竞争模拟大赛](https://www.bizwar.cn/) 武汉大学校赛二等奖
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<h2 id="internships">实习经历</h2>
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
++ 2025.06 ~ 2025.08：[北海市人民政府](http://www.bhhc.gov.cn/) 办公室，文秘股 
+
+
+<h2 id="research">研究兴趣</h2>
+还没更新
+<h2 id="projects">项目经历</h2>
+没更新
+<h2 id="skills">技能和工具</h2>
+<h2 id="activities">课外活动</h2>
+<h2 id="hobbies">个人兴趣爱好</h2>
