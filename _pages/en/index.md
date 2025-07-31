@@ -12,7 +12,9 @@ redirect_from:
   - /index.html
 ---
 ## About
-Sheng Jiang, male, from Guangxi, China. Currently an undergraduate student in the Department of Physics, Wuhan University, enrolled in Fall 2023.
+**Sheng Jiang** is an undergraduate student in the Department of Physics at Wuhan University. His main research interests lie in the field of semiconductors.
+
+Outside of his academic life, he is a badminton enthusiast and enjoys hiking and traveling. He grew up in Beihai, a picturesque coastal city in southern China.
 
 Contact: 182-7795-6006
 
@@ -33,22 +35,22 @@ Contact: 182-7795-6006
 
 <h2 id="honors">Honors and Awards</h2>
 + University-Level Honors
-  + 2025.04 Wuhan University 2024年度      优秀共青团干部
+  + 04/2025 Wuhan University &emsp;2024      Outstanding Communist Youth League Cadre
 
-  + 2024.12 武汉大学 2023-2024年度 优秀学生
+  + 12/2024 Wuhan University &emsp;2023-2024 Outstanding Student
 
-  + 2024.10 武汉大学 2023-2024学年 优秀学生奖学金（丙等奖）
+  + 10/2024 Wuhan University &emsp;2023-2024 Outstanding Students Scholarship (Third-Class)
 
-  + 2024.08 武汉大学 2023-2024学年 心理健康教育活动积极分子
+  + 08/2024 Wuhan University &emsp;2023-2024 Active Participant in Mental Health Education Activities
 
-  + 2024.06 武汉大学 2023-2024年度 优秀学生干部
+  + 06/2024 Wuhan University &emsp;2023-2024 Outstanding Student Leader
 
-  + 2023.09 武汉大学 2023年        军训优秀参训学员 
+  + 09/2023 Wuhan University &emsp;2023        Outstanding Trainee in Military Training 
 
 + 院级荣誉
-  + 2025.06 武汉大学物理科学与技术学院 2023-2024学年  社会活动积极分子
+  + 06/2025 School of Physics and Technology，Wuhan University&emsp; 2023-2024  Active Participant in Social Activities
 
-  + 2025.04 武汉大学物理科学与技术学院 2025年寒期     社会实践活动积极分子
+  + 04/2025 School of Physics and Technology，Wuhan University&emsp; 2025     Active Participant in Social Practice Activities
 
 <h2 id="competitions">Competition Awards</h2>
 + Jun 2025: Second Prize, CUPT Wuhan University Intra-School Competition
