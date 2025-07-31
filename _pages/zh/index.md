@@ -70,7 +70,7 @@ redirect_from:
 
 <h2 id="internships">实习经历</h2>
 
-+ 2025.06 ~ 2025.08：[北海市人民政府](http://www.bhhc.gov.cn/) 办公室，文秘股 
++ 2025.06 ~ 2025.08：[北海市海城区人民政府](http://www.bhhc.gov.cn/)办公室，文秘股 
 
 
 <h2 id="research">研究兴趣</h2>
