@@ -28,14 +28,14 @@ redirect_from:
 + **Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials**  
   + 已发表于 *Advanced Photonics Research*, 2025
   
-  + **作者**：Shuyang Yuan,Yanchang Zhou,Lei Yin,\*Xintian Wang,**Sheng Jiang**,Ziyi Song,Yao Wen,Ruiqing Cheng,\*and Jun He\*  
+  + **作者**：Shuyang Yuan, Yanchang Zhou, Lei Yin,\* Xintian Wang, **Sheng Jiang**, Ziyi Song, Yao Wen, Ruiqing Cheng,\* and Jun He\*  
 
-🔗 [网页查看](https://advanced.onlinelibrary.wiley.com/doi/10.1002/apxr.202400169) &ensp;&ensp;&ensp;&ensp; 📄 [PDF下载](https://jsjs66-hub.github.io/JS.io/files/Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials.pdf)
+  + 🔗 [网页查看](https://advanced.onlinelibrary.wiley.com/doi/10.1002/apxr.202400169) &ensp;&ensp;&ensp;&ensp; 📄 [PDF下载](https://jsjs66-hub.github.io/JS.io/files/Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials.pdf)
 
 <h2 id="honors">荣誉称号</h2>
 
 + 校级荣誉
-  + 2025.04 武汉大学 2024年度 优秀共青团干部
+  + 2025.04 武汉大学 2024年度      优秀共青团干部
 
   + 2024.12 武汉大学 2023-2024年度 优秀学生
 
@@ -45,27 +45,27 @@ redirect_from:
 
   + 2024.06 武汉大学 2023-2024年度 优秀学生干部
 
-  + 2023.09 武汉大学 2023年 军训优秀参训学员 
+  + 2023.09 武汉大学 2023年        军训优秀参训学员 
 
 + 院级荣誉
-  + 2025.06 武汉大学物理科学与技术学院 2023-2024学年 社会活动积极分子
+  + 2025.06 武汉大学物理科学与技术学院 2023-2024学年  社会活动积极分子
 
-  + 2025.04 武汉大学物理科学与技术学院 2025年寒期 社会实践活动积极分子
+  + 2025.04 武汉大学物理科学与技术学院 2025年寒期     社会实践活动积极分子
 
 
 <h2 id="competitions">竞赛奖项</h2>
 
-+ 2025.06 [中国大学生物理学术竞赛（CUPT）](https://www.cupt-iypt.com/) 武汉大学校赛二等奖
++ 2025.06 [中国大学生物理学术竞赛（CUPT）](https://www.cupt-iypt.com/)    武汉大学校赛二等奖
 
-+ 2025.05 [全国企业竞争模拟大赛](https://www.bizwar.cn/) 全国三等奖
++ 2025.05 [全国企业竞争模拟大赛](https://www.bizwar.cn/)    全国三等奖
 
-+ 2025.01 [美国大学生数学建模大赛（MCM/ICM）](https://www.comap.com/) Honorable Mention
++ 2025.01 [美国大学生数学建模大赛（MCM/ICM）](https://www.comap.com/)    Honorable Mention
 
-+ 2025.01 第三届全国ETF菁英挑战赛 高校组二等奖
++ 2025.01 第三届全国ETF菁英挑战赛    高校组二等奖
 
-+ 2024.11 [全国企业竞争模拟大赛](https://www.bizwar.cn/) 湖北省赛一等奖
++ 2024.11 [全国企业竞争模拟大赛](https://www.bizwar.cn/)    湖北省赛一等奖
 
-+ 2024.10 [全国企业竞争模拟大赛](https://www.bizwar.cn/) 武汉大学校赛二等奖
++ 2024.10 [全国企业竞争模拟大赛](https://www.bizwar.cn/)    武汉大学校赛二等奖
 
 
 <h2 id="internships">实习经历</h2>

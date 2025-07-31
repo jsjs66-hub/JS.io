@@ -27,8 +27,9 @@ Contact: 182-7795-6006
 + **Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials**
   + Published in *Advanced Photonics Research*, 2025
   
-  + Authors: Shuyang Yuan,Yanchang Zhou,Lei Yin,\*Xintian Wang,**Sheng Jiang**,Ziyi Song,Yao Wen,Ruiqing Cheng,\*and Jun He\*
-🔗 [View Online](https://advanced.onlinelibrary.wiley.com/doi/10.1002/apxr.202400169) &ensp;&ensp;&ensp;&ensp; 📄 [Download PDF](https://jsjs66-hub.github.io/JS.io/files/Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials.pdf)
+  + Authors: Shuyang Yuan, Yanchang Zhou, Lei Yin,\* Xintian Wang, **Sheng Jiang**, Ziyi Song, Yao Wen, Ruiqing Cheng,\* and Jun He\*
+
+  + 🔗 [View Online](https://advanced.onlinelibrary.wiley.com/doi/10.1002/apxr.202400169) &ensp;&ensp;&ensp;&ensp; 📄 [Download PDF](https://jsjs66-hub.github.io/JS.io/files/Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials.pdf)
 
 <h2 id="honors">Honors and Awards</h2>
 + University-Level Honors
