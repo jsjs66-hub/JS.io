@@ -57,17 +57,17 @@ redirect_from:
 
 <h2 id="competitions">竞赛奖项</h2>
 
-+ 2025.06 [中国大学生物理学术竞赛（CUPT）](https://www.cupt-iypt.com/)    武汉大学校赛二等奖
++ 2025.06 [中国大学生物理学术竞赛（CUPT）](https://www.cupt-iypt.com/)  &emsp;  武汉大学校赛二等奖
 
-+ 2025.05 [全国企业竞争模拟大赛](https://www.bizwar.cn/)    全国三等奖
++ 2025.05 [全国企业竞争模拟大赛](https://www.bizwar.cn/) &emsp;  全国三等奖
 
-+ 2025.01 [美国大学生数学建模大赛（MCM/ICM）](https://www.comap.com/contests/mcm-icm)    Honorable Mention
++ 2025.01 [美国大学生数学建模大赛（MCM/ICM）](https://www.comap.com/contests/mcm-icm)  &emsp;  Honorable Mention
 
-+ 2025.01 第三届全国ETF菁英挑战赛    高校组二等奖
++ 2025.01 第三届全国ETF菁英挑战赛  &emsp;  高校组二等奖
 
-+ 2024.11 [全国企业竞争模拟大赛](https://www.bizwar.cn/)    湖北省赛一等奖
++ 2024.11 [全国企业竞争模拟大赛](https://www.bizwar.cn/)  &emsp;  湖北省赛一等奖
 
-+ 2024.10 [全国企业竞争模拟大赛](https://www.bizwar.cn/)    武汉大学校赛二等奖
++ 2024.10 [全国企业竞争模拟大赛](https://www.bizwar.cn/)  &emsp;  武汉大学校赛二等奖
 
 
 <h2 id="internships">实习经历</h2>
