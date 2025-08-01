@@ -33,7 +33,7 @@ Contact: 182-7795-6006
 
   + 🔗 [View Online](https://advanced.onlinelibrary.wiley.com/doi/10.1002/apxr.202400169) &ensp;&ensp;&ensp;&ensp; 📄 [Download PDF](https://jsjs66-hub.github.io/JS.io/files/Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials.pdf)
 
-<h2 id="honors">Honors and Awards</h2>
+<h2 id="honors">Honors</h2>
 + University-Level Honors
   + 04/2025 Wuhan University &emsp; Outstanding Communist Youth League Cadre
 
