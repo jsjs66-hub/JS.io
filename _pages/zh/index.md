@@ -34,6 +34,8 @@ redirect_from:
 
   + 🔗 [网页查看](https://advanced.onlinelibrary.wiley.com/doi/10.1002/apxr.202400169) &ensp;&ensp;&ensp;&ensp; 📄 [PDF下载](https://jsjs66-hub.github.io/JS.io/files/Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials.pdf)
 
++
+
 + ***Universal Centimeter-Scale van der Waals Epitaxy of Ultrathin Single-Crystalline Ferrites Films***  
   + 已发表于 *Advanced Materials*, 2025
   
