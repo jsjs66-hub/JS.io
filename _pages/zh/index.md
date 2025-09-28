@@ -28,11 +28,18 @@ redirect_from:
 <h2 id="journal">论文与出版物</h2>
 
 + ***Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials***  
-  + 已发表于 *Advanced Photonics Research*, 2025
+  + 已发表于 *Advanced Physics Research*, 2025
   
   + **作者**：Shuyang Yuan, Yanchang Zhou, Lei Yin,\* Xintian Wang, **Sheng Jiang**, Ziyi Song, Yao Wen, Ruiqing Cheng,\* and Jun He\*  
 
   + 🔗 [网页查看](https://advanced.onlinelibrary.wiley.com/doi/10.1002/apxr.202400169) &ensp;&ensp;&ensp;&ensp; 📄 [PDF下载](https://jsjs66-hub.github.io/JS.io/files/Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials.pdf)
+
++ ***Universal Centimeter-Scale van der Waals Epitaxy of Ultrathin Single-Crystalline Ferrites Films***  
+  + 已发表于 *Advanced Materials*, 2025
+  
+  + **作者**：Yanchang Zhou, Ruiqing Cheng,\* Shuyang Yuan, Xiaoqiang Feng, Yushan Zhu, Sheng Jiang, Hao Wang, Lei Yin, Yao Wen, Wei Liu,\* Jun He\*  
+
+  + 🔗 [网页查看](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202509037) &ensp;&ensp;&ensp;&ensp; 📄 [PDF下载](https://jsjs66-hub.github.io/JS.io/files/Advanced Materials - 2025 - Zhou - Universal Centimeter‐Scale van der Waals Epitaxy of Ultrathin Single‐Crystalline.pdf")
 
 <h2 id="honors">荣誉称号</h2>
 
@@ -73,7 +80,7 @@ redirect_from:
 <h2 id="internships">实习经历</h2>
 
 + 2025.06 ~ 2025.08：[北海市海城区人民政府](http://www.bhhc.gov.cn/)办公室，文秘股 
-
++ + 返乡大学生社会实践团副团长
 
 
 <h2 id="projects">项目经历</h2>
