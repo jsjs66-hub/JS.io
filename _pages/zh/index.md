@@ -41,11 +41,18 @@ redirect_from:
   
   + **作者**：Yanchang Zhou, Ruiqing Cheng,\* Shuyang Yuan, Xiaoqiang Feng, Yushan Zhu, Sheng Jiang, Hao Wang, Lei Yin, Yao Wen, Wei Liu,\* Jun He\*  
 
-  + 🔗 [网页查看](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202509037) &ensp;&ensp;&ensp;&ensp; 📄 [PDF下载](https://jsjs66-hub.github.io/JS.io/files/Advanced Materials - 2025 - Zhou - Universal Centimeter‐Scale van der Waals Epitaxy of Ultrathin Single‐Crystalline.pdf")
+  + 🔗 [网页查看](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202509037) &ensp;&ensp;&ensp;&ensp; 📄 [PDF下载](Advanced Materials - 2025 - Zhou - Universal Centimeter‐Scale van der Waals Epitaxy of Ultrathin Single‐Crystalline.pdf)
 
 <h2 id="honors">荣誉称号</h2>
 
 + 校级荣誉
+
+  + 2025.09 武汉大学&emsp; 2024-2025学年 珞珈英才成长奖学金
+
+  + 2025.09 武汉大学&emsp; 2024-2025学年 优秀学生奖学金（甲等奖）    
+
+  + 2025.09 武汉大学&emsp; 2024-2025学年 三好学生
+
   + 2025.04 武汉大学&emsp; 2024年度      优秀共青团干部
 
   + 2024.12 武汉大学&emsp; 2023-2024年度 优秀学生
@@ -57,6 +64,8 @@ redirect_from:
   + 2024.06 武汉大学&emsp; 2023-2024年度 优秀学生干部
 
   + 2023.09 武汉大学&emsp; 2023年        军训优秀参训学员 
+
+
 
 + 院级荣誉
   + 2025.06 武汉大学物理科学与技术学院&emsp; 2023-2024学年  社会活动积极分子
@@ -82,11 +91,44 @@ redirect_from:
 <h2 id="internships">实习经历</h2>
 
 + 2025.06 ~ 2025.08：[北海市海城区人民政府](http://www.bhhc.gov.cn/)办公室，文秘股 
-+ + 返乡大学生社会实践团副团长
+  + 返乡大学生社会实践团副团长
 
 
 <h2 id="projects">项目经历</h2>
-没更新
+
++ **催促熊（WeChat Mini Program）**
+
+  设计并开发了一款面向拖延问题的效率工具小程序，通过**任务拆解机制**将复杂目标分解为多个可执行步骤，帮助用户逐步推进任务并降低行动门槛。
+
+  + 设计 **任务拆解系统**，支持将复杂目标分解为步骤化任务并按顺序执行  
+  + 实现 **任务进度管理与状态记录**，提升用户任务完成的可追踪性  
+  + 使用 **微信小程序原生框架** 完成前端界面与交互逻辑开发  
+  + 基于 **云数据库** 实现用户任务数据存储与管理  
+  + 小程序上线后累计用户 **3000+**
+
+
+
 <h2 id="skills">技能和工具</h2>
+
++ **编程与计算**
+  + Python
+  + C++
+  + LaTeX
+
++ **数据与办公工具**
+  + Excel 数据处理
+  + Word / PowerPoint
+
++ **语言能力**
+  + 英语：CET-6
+  + 普通话：二级乙等
+
+
 <h2 id="activities">课外活动</h2>
+
++ 武汉大学物理科学与技术学院 2023级3班 班长
++ 武汉大学物理科学与技术学院 130周年院庆志愿者
+
 <h2 id="hobbies">个人兴趣爱好</h2>
+
++ 羽毛球爱好者

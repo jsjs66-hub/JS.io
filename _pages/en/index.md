@@ -24,6 +24,9 @@ Contact: 182-7795-6006
 
 09/2020 – 06/2023: Beihai High School
 
+
+
+
 <h2 id="journal">Publications</h2>
 
 + ***Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials***
@@ -33,19 +36,28 @@ Contact: 182-7795-6006
 
   + 🔗 [View Online](https://advanced.onlinelibrary.wiley.com/doi/10.1002/apxr.202400169) &ensp;&ensp;&ensp;&ensp; 📄 [Download PDF](https://jsjs66-hub.github.io/JS.io/files/Recent Progress in Chemical Vapor Deposition of 2D Magnetic Materials.pdf)
 
+
+
 <h2 id="honors">Honors</h2>
 + University-Level Honors
+
+  + 09/2025 Wuhan University &emsp; Luojia Talents Development Scholarship
+
+  + 09/2025 Wuhan University &emsp; Outstanding Student Scholarship (First-Class)
+
+  + 09/2025 Wuhan University &emsp; Merit Student
+
   + 04/2025 Wuhan University &emsp; Outstanding Communist Youth League Cadre
 
   + 12/2024 Wuhan University &emsp; Outstanding Student
 
-  + 10/2024 Wuhan University &emsp; Outstanding Students Scholarship (Third-Class)
+  + 10/2024 Wuhan University &emsp; Outstanding Student Scholarship (Third-Class)
 
   + 08/2024 Wuhan University &emsp; Active Participant in Mental Health Education Activities
 
   + 06/2024 Wuhan University &emsp; Outstanding Student Leader
 
-  + 09/2023 Wuhan University &emsp; Outstanding Trainee in Military Training 
+  + 09/2023 Wuhan University &emsp; Outstanding Trainee in Military Training
 
 + College-Level Honors
   + 06/2025 School of Physics and Technology，Wuhan University&emsp;  Active Participant in Social Activities
@@ -69,21 +81,49 @@ Contact: 182-7795-6006
 
 <h2 id="internships">Internship Experience</h2>
 
-06/2025 ~ 08/2025: Secretariat, [Office of the People's Government of Haicheng District, Beihai, Guangxi, China](http://www.bhhc.gov.cn/)
++ **Office of the People's Government of Haicheng District, Beihai, Guangxi, China**  
+  *Secretariat Intern* | Jun 2025 – Aug 2025
 
+  + Deputy Leader of the University Student Social Practice Program
 
 
 <h2 id="projects">Projects</h2>
-To be updated.
+
++ **CucuBear – Task Decomposition Productivity Tool (WeChat Mini Program)**
+
+  Designed and developed a productivity mini-program aimed at reducing procrastination by decomposing complex goals into smaller, actionable steps, enabling users to complete tasks progressively.
+
+  + Designed a **task decomposition system** that breaks complex goals into step-by-step subtasks
+  + Implemented **task progress tracking and state management**
+  + Developed the frontend using the **WeChat Mini Program framework**
+  + Utilized **cloud database services** for user task storage and management
+  + Achieved **3000+ users** after release
 
 <h2 id="skills">Skills & Tools</h2>
-To be updated.
+
++ **Programming & Computing**
+  + Python
+  + C++
+  + LaTeX
+
++ **Data & Office Tools**
+  + Excel Data Processing
+  + Word / PowerPoint
+
++ **Languages**
+  + English: CET-6
+  + Mandarin: Level 2-B (Putonghua Proficiency Test)
+
 
 <h2 id="activities">Extracurricular Activities</h2>
-To be updated.
+
++ Class Monitor, Class 3, Grade 2023, School of Physics and Technology, Wuhan University
++ Volunteer, 130th Anniversary Celebration of the School of Physics and Technology, Wuhan University
+
 
 <h2 id="hobbies">Personal Interests</h2>
-To be updated.
+
++ Badminton
 
 
 
