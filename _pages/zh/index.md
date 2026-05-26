@@ -41,7 +41,7 @@ redirect_from:
   
   + **作者**：Yanchang Zhou, Ruiqing Cheng,\* Shuyang Yuan, Xiaoqiang Feng, Yushan Zhu, Sheng Jiang, Hao Wang, Lei Yin, Yao Wen, Wei Liu,\* Jun He\*  
 
-  + 🔗 [网页查看](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202509037) &ensp;&ensp;&ensp;&ensp; 📄 [PDF下载](Advanced Materials - 2025 - Zhou - Universal Centimeter‐Scale van der Waals Epitaxy of Ultrathin Single‐Crystalline.pdf)
+  + 🔗 [网页查看](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202509037) &ensp;&ensp;&ensp;&ensp; 📄 [PDF下载](https://jsjs66-hub.github.io/JS.io/files/Universal Centimeter‐Scale van der Waals Epitaxy of Ultrathin Single‐Crystalline.pdf)
 
 <h2 id="honors">荣誉称号</h2>
 
@@ -155,7 +155,7 @@ redirect_from:
 + **语言能力**
   + 英语：CET-6
   + 普通话：二级乙等
-
+  + 粤语：流利
 
 <h2 id="activities">课外活动</h2>
 
